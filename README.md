@@ -1,2 +1,2 @@
 # OIBSIP-TASKS-
-My task of Oasis Infitech
+My task of Oasis Infotech
